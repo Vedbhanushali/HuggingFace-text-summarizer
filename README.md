@@ -1,6 +1,6 @@
 # SUMMERIZZER
 
-![Watch the video](videos/demo.mp4)
+https://github.com/user-attachments/assets/a19813e4-d762-4d6b-ac40-1ddac16f9da0
 
 ## What does it do ?
 
