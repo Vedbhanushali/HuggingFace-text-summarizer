@@ -1,5 +1,7 @@
 # SUMMERIZZER
 
+![Watch the video](videos/demo.mp4)
+
 ## What does it do ?
 
 - User is prompted to insert text that they wish to summarize.
